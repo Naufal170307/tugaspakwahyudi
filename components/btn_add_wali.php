@@ -1,0 +1,1 @@
+<a type="button" href="..\layouts\add_wali.php" class="btn btn-primary">Tambah Wali</a>
